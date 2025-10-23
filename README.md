@@ -1,4 +1,4 @@
-# Experiment 10: Evaluation of Radar Range Using Scilab
+# Evaluation of Radar Range Using Scilab
 ---
 
 ## Aim
