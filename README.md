@@ -15,7 +15,7 @@ It is expressed as:
 
 ---
 
-## 🧠 Algorithm
+## Algorithm
 
 1. Initialize constants:
    - λ (wavelength) = 0.03 m  
